@@ -1,31 +1,27 @@
 # JavaBrickBreaker
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I made this project to learn and gain a better understanding of the Java language. The project I made is an old school brick breaker game. I implemented an interface that starts the game when you move and can restart if you lose by pressing enter. In doing so I was able to fully explore different aspects of Java.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/xowCDwBoMKM)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual Studio Code
 
-{Describe the programming language that you used and any libraries.}
+Java Version 18.0.1.1
+
+JDK Version 18
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Oracle](https://www.oracle.com/index.html)
+* [Java Point](https://www.javatpoint.com/how-to-generate-random-number-in-java)
+
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* One thing that I want to impove in the future is adding a difficulty setting and a main menu to go along with it.
+* Add more more bricks or speed up the ball once you clear the first round of bricks
+* Smothen out the bat or breaker bar so that it feels nicer to the user.
